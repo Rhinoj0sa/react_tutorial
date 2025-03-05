@@ -6,5 +6,6 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-<h1>Hola guuuu! very pelon</h1>
+  <div><h1>other shit</h1></div>
+
 );
